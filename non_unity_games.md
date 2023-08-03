@@ -1,0 +1,95 @@
+These are games that either weren't made in Unity or were released without the Assembly-Csharp.dll file needed to decompile them:
+- 112 Operator
+- Age of Empires II: HD Edition
+- Arcade Paradise
+- Backbone
+- Barotrauma
+- Bitburner
+- Brothers
+- Castle Crashers
+- Cepheus Protocol
+- Cloudpunk
+- Crashlands
+- Crusader Kings II
+- Crusader Kings III
+- Day of Defeat
+- Day of Defeat: Source
+- Chivalry II
+- Curse of the Dead Gods
+- Disco Elysium
+- Don't Starve
+- Doom Eternal
+- Drake Hollow
+- Due Process
+- Dungeon Defenders
+- Dynasty Warriors 8
+- Eternal Threads
+- Evan's Remains
+- Fear & Hunger
+- Fear & Hunger 2: Termina
+- First Class Trouble
+- Fistful of Frags
+- Five Nights at Freddy's
+- Ghostwire: Tokyo
+- Golf with your Friends
+- Grime
+- Guacamelee
+- Gungrave G.O.R.E.
+- Hacknet
+- Hearts of Iron IV
+- Honey I Joined a Cult
+- HonkaiImpact
+- Hotline Miami
+- Hotline Miami 2: Wrong Number
+- Insanity Clicker
+- Katana ZERO
+- Kenshi
+- Kraken Academy
+- Learn Japanese to Survive: Hiragana
+- Little Witch Nobeta
+- Maple Story
+- Mechwarrior 5: Mercenaries
+- Mobius Front '83
+- Monaco
+- Mount & Blade
+- Mount & Blade: Warband
+- Mount & Blade: With Fire & Sword
+- Mount & Blade II: Bannerlord - Except the Digital Companion, but the actual game doesn't have it
+- Nebuchadnezzer
+- Necesse
+- Neo Aquarium
+- Observer: System Redux
+- Octodad
+- Only Up
+- Ozymandias
+- Partisans 1941
+- Per Aspera
+- Police Stories
+- Postal 2
+- Project Winter
+- Project Zomboid
+- Red Solstice 2: Survivors
+- Remnant: From the Ashes
+- Road Warden
+- Road 96
+- Rogue Heroes: Ruins of Tasos
+- Salt and Sanctuary
+- Scorn
+- Severed Steel
+- Spacechem
+- Spelunky 2
+- Starmade
+- Sunless Skies
+- Super Magbot
+- Temtem
+- The Long Dark
+- The Survivalists
+- Torchlight II
+- Turbo Golf Racing
+- Trek to Yomi
+- Universe Sandbox
+- Voice of the Void
+- Voidigo
+- Voltage High Society
+- Westerado: Double-Barreled
+- Yakuza Kiwami 2
