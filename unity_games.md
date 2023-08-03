@@ -1,0 +1,79 @@
+Games released with the Assembly-Csharp.dll file:
+- 198X
+- 8 Doors
+- Abandon Ship
+- ANNO: Mutationem
+- Atomic Crops
+- Battletech
+- Before We Leave
+- Bendy and the Dark Revival
+- Besiege
+- Between the Stars
+- Black Book
+- Black Future '88
+- Blade Assault
+- Block Hood
+- Carto
+- Cities Skyline
+- The Convenience Store
+- Corpse Party
+- Craftopia
+- Deployment
+- Distance
+- Doki Doki Literature Club
+- Dredge
+- Empyrion
+- Founders Fortune
+- The Forest
+- Fort Triumph
+- Golden Light
+- Graveyard Keeper
+- Grow: Song of the Evertree
+- Hardspace: Shipbreakers
+- Helltaker
+- Hokko Life
+- Hot Brass
+- The Invisible Hand
+- The Life and Suffering of Sir Brante
+- Iron Lung
+- Kerbal Space Program 2
+- Lost in Vivo
+- Lovers in a Dangerous Spacetime
+- Meeple Station
+- Merchants of the Skies
+- Monsters Crown
+- Monster Prom 2
+- Monster Sanctuary
+- Murder House
+- Near Death
+- Neon Abyss
+- Never Alone
+- Nightmare of Decay
+- Nowhere Prophet
+- Outer Wilds
+- Out of Space
+- Party Hard
+- Rebel Cops
+- Retrowave
+- RimWorld
+- Rustler
+- Scarlet Hood & the Wicked Wood
+- Shadow Tactics: Blades of the Shogun
+- Shadow Tactics: Blades of the Shogun - Aiko's Choice
+- Sir You Are Being Hunted
+- Slayaway Camp
+- Spiritfarer
+- Starward Rogue
+- SuchArt
+- Swag and Sorcery
+- The Black Watchmen
+- The Coma 2
+- The Coma Recut
+- The Invisible Hand
+- Time Lock VR 1
+- TIS-100
+- Tin Can
+- Town of Salem
+- Ultimate Chicken Horse
+- We Are the Dwarves
+- Welcome to the Game II
