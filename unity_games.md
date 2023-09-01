@@ -4,6 +4,7 @@ Games released with the Assembly-Csharp.dll file:
 - Abandon Ship
 - ANNO: Mutationem
 - Atomic Crops
+- Banners of Ruin
 - Battletech
 - Before We Leave
 - Bendy and the Dark Revival
@@ -13,6 +14,7 @@ Games released with the Assembly-Csharp.dll file:
 - Black Future '88
 - Blade Assault
 - Block Hood
+- Calico
 - Carto
 - Cities Skyline
 - The Convenience Store
@@ -22,7 +24,9 @@ Games released with the Assembly-Csharp.dll file:
 - Distance
 - Doki Doki Literature Club
 - Dredge
+- Emily is Away <3
 - Empyrion
+- Everhood
 - Founders Fortune
 - The Forest
 - Fort Triumph
@@ -33,15 +37,19 @@ Games released with the Assembly-Csharp.dll file:
 - Helltaker
 - Hokko Life
 - Hot Brass
+- I am Fish
+- If Found
 - The Invisible Hand
 - The Life and Suffering of Sir Brante
 - Iron Harvest
 - Iron Lung
 - Kerbal Space Program 2
+- Legion TD 2
 - Lost in Vivo
 - Lovers in a Dangerous Spacetime
 - Meeple Station
 - Merchants of the Skies
+- Mind Scanners
 - Monsters Crown
 - Monster Prom 2
 - Monster Sanctuary
@@ -63,9 +71,11 @@ Games released with the Assembly-Csharp.dll file:
 - Shadow Tactics: Blades of the Shogun - Aiko's Choice
 - Sir You Are Being Hunted
 - Slayaway Camp
+- Spellcaster University
 - Spiritfarer
 - Starward Rogue
 - SuchArt
+- Super Hot: Mind Control Delete
 - Swag and Sorcery
 - The Black Watchmen
 - The Coma 2
@@ -79,3 +89,4 @@ Games released with the Assembly-Csharp.dll file:
 - Ultimate Chicken Horse
 - We Are the Dwarves
 - Welcome to the Game II
+- Yes, Your Grace
