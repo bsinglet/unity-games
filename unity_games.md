@@ -3,6 +3,7 @@ Games released with the Assembly-Csharp.dll file:
 - 8 Doors
 - Abandon Ship
 - ANNO: Mutationem
+- ATOM RPG Trudograd
 - Atomic Crops
 - Banners of Ruin
 - Battletech
