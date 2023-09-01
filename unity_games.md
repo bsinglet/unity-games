@@ -35,6 +35,7 @@ Games released with the Assembly-Csharp.dll file:
 - Hot Brass
 - The Invisible Hand
 - The Life and Suffering of Sir Brante
+- Iron Harvest
 - Iron Lung
 - Kerbal Space Program 2
 - Lost in Vivo
@@ -70,6 +71,7 @@ Games released with the Assembly-Csharp.dll file:
 - The Coma 2
 - The Coma Recut
 - The Invisible Hand
+- The Tale of Fighting Nymphs
 - Time Lock VR 1
 - TIS-100
 - Tin Can
