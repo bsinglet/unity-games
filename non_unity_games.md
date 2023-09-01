@@ -6,8 +6,10 @@ These are games that either weren't made in Unity or were released without the A
 - Assassin's Creed: Valhalla
 - Backbone
 - Barotrauma
+- Behind the Frame: The Finest Scenery
 - Bitburner
 - Brothers
+- Call of the Sea
 - Castle Crashers
 - Cepheus Protocol
 - Cloudpunk
@@ -34,6 +36,9 @@ These are games that either weren't made in Unity or were released without the A
 - Fistful of Frags
 - Five Nights at Freddy's
 - Fobia: St. Dinfna Hotel
+- Gamedec: Definitive Edition
+- Gas Station Simulator
+- Genesis Noir
 - Ghostwire: Tokyo
 - Golf with your Friends
 - Grime
@@ -50,6 +55,7 @@ These are games that either weren't made in Unity or were released without the A
 - Kenshi
 - Kraken Academy
 - Learn Japanese to Survive: Hiragana
+- Legend of Keepers
 - Little Witch Nobeta
 - Maple Story
 - Mechwarrior 5: Mercenaries
@@ -65,12 +71,15 @@ These are games that either weren't made in Unity or were released without the A
 - No Man's Sky
 - Observer: System Redux
 - Octodad
+- Omno
 - Only Up
+- Operation: Tango
 - Ozymandias
 - Partisans 1941
 - Per Aspera
 - Police Stories
 - Postal 2
+- Pumpkin Jack
 - Project Winter
 - Project Zomboid
 - Red Solstice 2: Survivors
@@ -85,11 +94,13 @@ These are games that either weren't made in Unity or were released without the A
 - Scorn
 - Severed Steel
 - Shotgun King
+- Siege Survival: Gloria Victis
 - Spacechem
 - Spelunky 2
 - Starmade
 - Sunless Skies
 - Super Magbot
+- Surviving the Aftermath
 - Temtem
 - Terraria
 - Thief (2014)
@@ -106,4 +117,5 @@ These are games that either weren't made in Unity or were released without the A
 - Voltage High Society
 - We Happy Few
 - Westerado: Double-Barreled
+- Windjammers 2
 - Yakuza Kiwami 2
