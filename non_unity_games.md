@@ -2,6 +2,8 @@ These are games that either weren't made in Unity or were released without the A
 - 112 Operator
 - Age of Empires II: HD Edition
 - Arcade Paradise
+- Assassin's Creed: Unity
+- Assassin's Creed: Valhalla
 - Backbone
 - Barotrauma
 - Bitburner
@@ -25,11 +27,13 @@ These are games that either weren't made in Unity or were released without the A
 - Dynasty Warriors 8
 - Eternal Threads
 - Evan's Remains
+- FAITH
 - Fear & Hunger
 - Fear & Hunger 2: Termina
 - First Class Trouble
 - Fistful of Frags
 - Five Nights at Freddy's
+- Fobia: St. Dinfna Hotel
 - Ghostwire: Tokyo
 - Golf with your Friends
 - Grime
@@ -58,6 +62,7 @@ These are games that either weren't made in Unity or were released without the A
 - Nebuchadnezzer
 - Necesse
 - Neo Aquarium
+- No Man's Sky
 - Observer: System Redux
 - Octodad
 - Only Up
@@ -70,19 +75,27 @@ These are games that either weren't made in Unity or were released without the A
 - Project Zomboid
 - Red Solstice 2: Survivors
 - Remnant: From the Ashes
+- Resident Evil 2
+- Resident Evil: Village
 - Road Warden
 - Road 96
 - Rogue Heroes: Ruins of Tasos
+- Rogue Lords
 - Salt and Sanctuary
 - Scorn
 - Severed Steel
+- Shotgun King
 - Spacechem
 - Spelunky 2
 - Starmade
 - Sunless Skies
 - Super Magbot
 - Temtem
+- Terraria
+- Thief (2014)
+- The Baby in Yellow
 - The Long Dark
+- The Serpent Rogue
 - The Survivalists
 - Torchlight II
 - Turbo Golf Racing
@@ -91,5 +104,6 @@ These are games that either weren't made in Unity or were released without the A
 - Voice of the Void
 - Voidigo
 - Voltage High Society
+- We Happy Few
 - Westerado: Double-Barreled
 - Yakuza Kiwami 2
