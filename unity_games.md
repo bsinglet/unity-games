@@ -37,6 +37,7 @@ Games released with the Assembly-Csharp.dll file:
 - Graveyard Keeper
 - Grow: Song of the Evertree
 - Hardspace: Shipbreakers
+- Hatoful Boyfriend
 - Helltaker
 - Hokko Life
 - Hot Brass
@@ -47,6 +48,7 @@ Games released with the Assembly-Csharp.dll file:
 - The Life and Suffering of Sir Brante
 - Iron Harvest
 - Iron Lung
+- Keep Talking and Nobody Explodes
 - Kerbal Space Program 2
 - Legion TD 2
 - Lost in Vivo
@@ -70,6 +72,7 @@ Games released with the Assembly-Csharp.dll file:
 - Rebel Cops
 - Retrowave
 - RimWorld
+- Running Through Russia
 - Rustler
 - Scarlet Hood & the Wicked Wood
 - Shadow Tactics: Blades of the Shogun
@@ -92,6 +95,7 @@ Games released with the Assembly-Csharp.dll file:
 - Tin Can
 - Town of Salem
 - Ultimate Chicken Horse
+- UnderWater Adventure
 - We Are the Dwarves
 - Welcome to the Game II
 - Yes, Your Grace
