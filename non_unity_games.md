@@ -20,6 +20,7 @@ These are games that either weren't made in Unity or were released without the A
 - Day of Defeat: Source
 - Chivalry II
 - Curse of the Dead Gods
+- Deceive, Inc.
 - Disco Elysium
 - Don't Starve
 - Doom Eternal
@@ -36,6 +37,7 @@ These are games that either weren't made in Unity or were released without the A
 - Fistful of Frags
 - Five Nights at Freddy's
 - Fobia: St. Dinfna Hotel
+- Foretales
 - Gamedec: Definitive Edition
 - Gas Station Simulator
 - Genesis Noir
@@ -46,6 +48,7 @@ These are games that either weren't made in Unity or were released without the A
 - Gungrave G.O.R.E.
 - Hacknet
 - Hearts of Iron IV
+- Holocure - Save the Fans!
 - Honey I Joined a Cult
 - HonkaiImpact
 - Hotline Miami
@@ -76,6 +79,7 @@ These are games that either weren't made in Unity or were released without the A
 - Operation: Tango
 - Ozymandias
 - Partisans 1941
+- Patch Quest
 - Per Aspera
 - Police Stories
 - Postal 2
@@ -95,6 +99,7 @@ These are games that either weren't made in Unity or were released without the A
 - Severed Steel
 - Shotgun King
 - Siege Survival: Gloria Victis
+- Signalis
 - Spacechem
 - Spelunky 2
 - Starmade
@@ -105,6 +110,7 @@ These are games that either weren't made in Unity or were released without the A
 - Terraria
 - Thief (2014)
 - The Baby in Yellow
+- The Forgotten City
 - The Long Dark
 - The Serpent Rogue
 - The Survivalists
@@ -117,5 +123,7 @@ These are games that either weren't made in Unity or were released without the A
 - Voltage High Society
 - We Happy Few
 - Westerado: Double-Barreled
+- Who Pressed Mute on Uncle Marcus?
+- Wildfire
 - Windjammers 2
 - Yakuza Kiwami 2
