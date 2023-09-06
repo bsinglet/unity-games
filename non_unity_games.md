@@ -4,6 +4,7 @@ These are games that either weren't made in Unity or were released without the A
 - Arcade Paradise
 - Assassin's Creed: Unity
 - Assassin's Creed: Valhalla
+- Aquaria
 - Backbone
 - Barotrauma
 - Behind the Frame: The Finest Scenery
@@ -16,26 +17,36 @@ These are games that either weren't made in Unity or were released without the A
 - Crashlands
 - Crusader Kings II
 - Crusader Kings III
-- Day of Defeat
-- Day of Defeat: Source
+- Crypt of the NecroDancer
 - Chivalry II
 - Curse of the Dead Gods
+- Day of Defeat
+- Day of Defeat: Source
 - Deceive, Inc.
 - Disco Elysium
 - Don't Starve
+- DOOM (1993)
+- DOOM II
 - Doom Eternal
+- Don't Starve Together
 - Drake Hollow
 - Due Process
 - Dungeon Defenders
 - Dynasty Warriors 8
+- Eldritch
 - Eternal Threads
 - Evan's Remains
 - FAITH
 - Fear & Hunger
 - Fear & Hunger 2: Termina
+- Final DOOM
 - First Class Trouble
 - Fistful of Frags
 - Five Nights at Freddy's
+- Five Nights at Freddy's 2
+- Five Nights at Freddy's 3
+- Five Nights at Freddy's 4
+- Five Nights at Freddy's Sister Location
 - Fobia: St. Dinfna Hotel
 - Foretales
 - Gamedec: Definitive Edition
@@ -47,20 +58,26 @@ These are games that either weren't made in Unity or were released without the A
 - Guacamelee
 - Gungrave G.O.R.E.
 - Hacknet
+- Half-Life 2: Episode One
+- Haunt the House: Terrortown
 - Hearts of Iron IV
+- Hell Yeah!
+- Hitman 2: Silent Assassin
 - Holocure - Save the Fans!
 - Honey I Joined a Cult
 - HonkaiImpact
 - Hotline Miami
 - Hotline Miami 2: Wrong Number
 - Insanity Clicker
+- Jet Set Radio
 - Katana ZERO
 - Kenshi
 - Kraken Academy
 - Learn Japanese to Survive: Hiragana
 - Legend of Keepers
-- Little Witch Nobeta
+- Little Witch Nobet
 - Maple Story
+- Master Levels for DOOM II
 - Mechwarrior 5: Mercenaries
 - Mobius Front '83
 - Monaco
@@ -83,6 +100,7 @@ These are games that either weren't made in Unity or were released without the A
 - Per Aspera
 - Police Stories
 - Postal 2
+- Prison Architect
 - Pumpkin Jack
 - Project Winter
 - Project Zomboid
@@ -90,10 +108,13 @@ These are games that either weren't made in Unity or were released without the A
 - Remnant: From the Ashes
 - Resident Evil 2
 - Resident Evil: Village
+- Riptide GP: Renegade
 - Road Warden
 - Road 96
 - Rogue Heroes: Ruins of Tasos
 - Rogue Lords
+- RollerCoaster Tycoon: Deluxe
+- RollerCoaster Tycoon 2: Triple Thrill Pack
 - Salt and Sanctuary
 - Scorn
 - Severed Steel
@@ -102,7 +123,9 @@ These are games that either weren't made in Unity or were released without the A
 - Signalis
 - Spacechem
 - Spelunky 2
+- Squishy the Suicidal Pig
 - Starmade
+- Submerged
 - Sunless Skies
 - Super Magbot
 - Surviving the Aftermath
@@ -116,6 +139,8 @@ These are games that either weren't made in Unity or were released without the A
 - The Survivalists
 - Torchlight II
 - Turbo Golf Racing
+- Turok
+- Turok 2: Seeds of Evil
 - Trek to Yomi
 - Universe Sandbox
 - Voice of the Void
