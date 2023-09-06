@@ -2,9 +2,11 @@ Games released with the Assembly-Csharp.dll file:
 - 198X
 - 8 Doors
 - Abandon Ship
+- Aces and Adventures
 - ANNO: Mutationem
 - ATOM RPG Trudograd
 - Atomic Crops
+- Autonauts vs Piratebots
 - Banners of Ruin
 - Battletech
 - Before We Leave
@@ -39,6 +41,7 @@ Games released with the Assembly-Csharp.dll file:
 - Hokko Life
 - Hot Brass
 - I am Fish
+- Idol Showdown
 - If Found
 - The Invisible Hand
 - The Life and Suffering of Sir Brante
@@ -54,6 +57,7 @@ Games released with the Assembly-Csharp.dll file:
 - Monsters Crown
 - Monster Prom 2
 - Monster Sanctuary
+- Moonscars
 - Murder House
 - Near Death
 - Neon Abyss
