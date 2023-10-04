@@ -51,6 +51,7 @@ Games released with the Assembly-Csharp.dll file:
 - Keep Talking and Nobody Explodes
 - Kerbal Space Program 2
 - Legion TD 2
+- Lords and Villeins
 - Lost in Vivo
 - Lovers in a Dangerous Spacetime
 - Meeple Station
@@ -60,6 +61,7 @@ Games released with the Assembly-Csharp.dll file:
 - Monster Prom 2
 - Monster Sanctuary
 - Moonscars
+- Mr. Prepper
 - Murder House
 - Near Death
 - Neon Abyss
@@ -81,6 +83,7 @@ Games released with the Assembly-Csharp.dll file:
 - Slayaway Camp
 - Spellcaster University
 - Spiritfarer
+- Spirit of the Island
 - Starward Rogue
 - SuchArt
 - Super Hot: Mind Control Delete
