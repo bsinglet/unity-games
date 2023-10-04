@@ -79,6 +79,7 @@ These are games that either weren't made in Unity or were released without the A
 - Maple Story
 - Master Levels for DOOM II
 - Mechwarrior 5: Mercenaries
+- Metal: Hellsinger
 - Mobius Front '83
 - Monaco
 - Mount & Blade
@@ -104,6 +105,7 @@ These are games that either weren't made in Unity or were released without the A
 - Pumpkin Jack
 - Project Winter
 - Project Zomboid
+- Rebel Inc: Escalation
 - Red Solstice 2: Survivors
 - Remnant: From the Ashes
 - Resident Evil 2
@@ -133,8 +135,10 @@ These are games that either weren't made in Unity or were released without the A
 - Terraria
 - Thief (2014)
 - The Baby in Yellow
+- The Dark Pictures Anthology: House of Ashes
 - The Forgotten City
 - The Long Dark
+- The Quarry
 - The Serpent Rogue
 - The Survivalists
 - Torchlight II
