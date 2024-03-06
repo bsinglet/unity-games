@@ -4,11 +4,13 @@ Games released with the Assembly-Csharp.dll file:
 - Abandon Ship
 - Aces and Adventures
 - ANNO: Mutationem
+- Apocalipsis
 - ATOM RPG Trudograd
 - Atomic Crops
 - Autonauts vs Piratebots
 - Banners of Ruin
 - Battletech
+- Beacon Pines
 - Before We Leave
 - Bendy and the Dark Revival
 - Besiege
@@ -17,16 +19,21 @@ Games released with the Assembly-Csharp.dll file:
 - Black Future '88
 - Blade Assault
 - Block Hood
+- Broforce
 - Calico
 - Carto
+- Children of Silentown
 - Cities Skyline
 - The Convenience Store
+- Convoy
 - Corpse Party
 - Craftopia
+- Death Crown
 - Deployment
 - Distance
 - Doki Doki Literature Club
 - Dredge
+- Edge of Eternity
 - Emily is Away <3
 - Empyrion
 - Everhood
@@ -41,6 +48,7 @@ Games released with the Assembly-Csharp.dll file:
 - Helltaker
 - Hokko Life
 - Hot Brass
+- Human Fall Flat
 - I am Fish
 - Idol Showdown
 - If Found
@@ -80,11 +88,16 @@ Games released with the Assembly-Csharp.dll file:
 - Shadow Tactics: Blades of the Shogun
 - Shadow Tactics: Blades of the Shogun - Aiko's Choice
 - Sir You Are Being Hunted
+- Sky Hill
+- The Slater
 - Slayaway Camp
+- Snowtopia
+- Souldiers
 - Spellcaster University
 - Spiritfarer
 - Spirit of the Island
 - Starward Rogue
+- Stasis
 - SuchArt
 - Super Hot: Mind Control Delete
 - Swag and Sorcery
@@ -92,13 +105,20 @@ Games released with the Assembly-Csharp.dll file:
 - The Coma 2
 - The Coma Recut
 - The Invisible Hand
+- The Legend of Tian Ding
 - The Tale of Fighting Nymphs
+- There is No Light
 - Time Lock VR 1
 - TIS-100
 - Tin Can
 - Town of Salem
+- Trudogard
 - Ultimate Chicken Horse
 - UnderWater Adventure
+- Unpacking
+- Vampire: The Masquerade - Coteries of New York
+- Vampire: The Masquerade - Shadows of New York 
 - We Are the Dwarves
 - Welcome to the Game II
+- Wounded - The Beginning
 - Yes, Your Grace
