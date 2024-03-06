@@ -1,20 +1,32 @@
 These are games that either weren't made in Unity or were released without the Assembly-Csharp.dll file needed to decompile them:
 - 112 Operator
+- 2Dark
+- Ad Infinitum
 - Age of Empires II: HD Edition
+- Aragami 2
 - Arcade Paradise
+- Armored Core VI: Fires of Rubicon
+- The Ascent
 - Assassin's Creed: Unity
 - Assassin's Creed: Valhalla
+- Assetto Corsa Competizione
 - Aquaria
 - Backbone
 - Barotrauma
+- Bee Simulator
 - Behind the Frame: The Finest Scenery
 - Bitburner
+- The Blind Prophet
 - Brothers
+- The Callisto Protocol
 - Call of the Sea
 - Castle Crashers
 - Cepheus Protocol
+- The Coffin of Andy and Leyley
+- Conan Chop Chop
 - Cloudpunk
 - Crashlands
+- Curse of the Dead Gods
 - Crusader Kings II
 - Crusader Kings III
 - Crypt of the NecroDancer
@@ -23,12 +35,14 @@ These are games that either weren't made in Unity or were released without the A
 - Day of Defeat
 - Day of Defeat: Source
 - Deceive, Inc.
+- The Demonologist
 - Disco Elysium
 - Don't Starve
 - DOOM (1993)
 - DOOM II
 - Doom Eternal
 - Don't Starve Together
+- Dragon Ball Z: Kakarot
 - Drake Hollow
 - Due Process
 - Dungeon Defenders
@@ -49,6 +63,9 @@ These are games that either weren't made in Unity or were released without the A
 - Five Nights at Freddy's Sister Location
 - Fobia: St. Dinfna Hotel
 - Foretales
+- The Forgotten City
+- Friends vs Friends
+- From Space
 - Gamedec: Definitive Edition
 - Gas Station Simulator
 - Genesis Noir
@@ -57,6 +74,7 @@ These are games that either weren't made in Unity or were released without the A
 - Grime
 - Guacamelee
 - Gungrave G.O.R.E.
+- The Gunk
 - Hacknet
 - Half-Life 2: Episode One
 - Haunt the House: Terrortown
@@ -68,11 +86,15 @@ These are games that either weren't made in Unity or were released without the A
 - HonkaiImpact
 - Hotline Miami
 - Hotline Miami 2: Wrong Number
+- Ib
 - Insanity Clicker
 - Jet Set Radio
+- Jurassic World Evolution 2
+- Just Die Already
 - Katana ZERO
 - Kenshi
 - Kraken Academy
+- Last Call BBS
 - Learn Japanese to Survive: Hiragana
 - Legend of Keepers
 - Little Witch Nobet
@@ -80,6 +102,7 @@ These are games that either weren't made in Unity or were released without the A
 - Master Levels for DOOM II
 - Mechwarrior 5: Mercenaries
 - Metal: Hellsinger
+- Midnight Fight Express
 - Mobius Front '83
 - Monaco
 - Mount & Blade
@@ -90,69 +113,95 @@ These are games that either weren't made in Unity or were released without the A
 - Necesse
 - Neo Aquarium
 - No Man's Sky
+- Oaken
 - Observer: System Redux
 - Octodad
+- Olli Olli World
 - Omno
 - Only Up
 - Operation: Tango
+- Othercide
+- OTXO
 - Ozymandias
+- Pacific Drive
 - Partisans 1941
 - Patch Quest
 - Per Aspera
 - Police Stories
 - Postal 2
+- Prey (2017)
 - Prison Architect
+- Prodeus
+- Project Winter
 - Pumpkin Jack
 - Project Winter
 - Project Zomboid
+- The Quarry
 - Rebel Inc: Escalation
 - Red Solstice 2: Survivors
 - Remnant: From the Ashes
 - Resident Evil 2
 - Resident Evil: Village
+- Revita
 - Riptide GP: Renegade
 - Road Warden
 - Road 96
+- Roadwarden
 - Rogue Heroes: Ruins of Tasos
 - Rogue Lords
 - RollerCoaster Tycoon: Deluxe
 - RollerCoaster Tycoon 2: Triple Thrill Pack
 - Salt and Sanctuary
 - Scorn
+- Scourge Bringer
+- SCP: Secret Files
+- The Serpent Rogue
 - Severed Steel
+- Shady Part of Me
 - Shotgun King
 - Siege Survival: Gloria Victis
 - Signalis
+- Slay the Princess
 - Spacechem
 - Spelunky 2
+- Spiderman Remastered
 - Squishy the Suicidal Pig
+- Starfield
 - Starmade
+- Strange Brigade
 - Submerged
 - Sunless Skies
 - Super Magbot
 - Surviving the Aftermath
+- Tails Noir
 - Temtem
 - Terraria
 - Thief (2014)
+- Thief Gold
+- Thief: Deadly Shadows
+- Thief II: The Metal Age
 - The Baby in Yellow
 - The Dark Pictures Anthology: House of Ashes
-- The Forgotten City
 - The Long Dark
-- The Quarry
-- The Serpent Rogue
 - The Survivalists
+- Thronebreaker: The Witcher Tales
+- Tomb Raider: Anniversary
+- Tomb Raider: Underworld
 - Torchlight II
 - Turbo Golf Racing
 - Turok
 - Turok 2: Seeds of Evil
 - Trek to Yomi
+- Trailmakers: Spacebound
 - Universe Sandbox
 - Voice of the Void
 - Voidigo
 - Voltage High Society
+- Xeodrifter
 - We Happy Few
 - Westerado: Double-Barreled
 - Who Pressed Mute on Uncle Marcus?
 - Wildfire
 - Windjammers 2
+- WWE 2k23
 - Yakuza Kiwami 2
