@@ -22,9 +22,10 @@ These are games that either weren't made in Unity or were released without the A
 - Call of the Sea
 - Castle Crashers
 - Cepheus Protocol
+- Cloudpunk
 - The Coffin of Andy and Leyley
 - Conan Chop Chop
-- Cloudpunk
+- Coromon
 - Crashlands
 - Curse of the Dead Gods
 - Crusader Kings II
@@ -50,6 +51,7 @@ These are games that either weren't made in Unity or were released without the A
 - Eldritch
 - Eternal Threads
 - Evan's Remains
+- The Excavation of Hob's Barrow
 - FAITH
 - Fear & Hunger
 - Fear & Hunger 2: Termina
@@ -97,6 +99,7 @@ These are games that either weren't made in Unity or were released without the A
 - Last Call BBS
 - Learn Japanese to Survive: Hiragana
 - Legend of Keepers
+- Life is Strange: True Colors
 - Little Witch Nobet
 - Maple Story
 - Master Levels for DOOM II
@@ -173,6 +176,7 @@ These are games that either weren't made in Unity or were released without the A
 - Sunless Skies
 - Super Magbot
 - Surviving the Aftermath
+- Symphony of War: The Nephilim Saga
 - Tails Noir
 - Temtem
 - Terraria
@@ -194,6 +198,7 @@ These are games that either weren't made in Unity or were released without the A
 - Trek to Yomi
 - Trailmakers: Spacebound
 - Universe Sandbox
+- Victoria 3
 - Voice of the Void
 - Voidigo
 - Voltage High Society
