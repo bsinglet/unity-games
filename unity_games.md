@@ -37,6 +37,7 @@ Games released with the Assembly-Csharp.dll file:
 - Emily is Away <3
 - Empyrion
 - Everhood
+- Fashion Police Squad
 - Founders Fortune
 - The Forest
 - Fort Triumph
@@ -49,6 +50,7 @@ Games released with the Assembly-Csharp.dll file:
 - Hokko Life
 - Hot Brass
 - Human Fall Flat
+- Humankind
 - I am Fish
 - Idol Showdown
 - If Found
@@ -101,6 +103,7 @@ Games released with the Assembly-Csharp.dll file:
 - SuchArt
 - Super Hot: Mind Control Delete
 - Swag and Sorcery
+- Terraformers
 - The Black Watchmen
 - The Coma 2
 - The Coma Recut
