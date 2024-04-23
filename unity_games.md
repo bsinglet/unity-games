@@ -29,6 +29,7 @@ Games released with the Assembly-Csharp.dll file:
 - Corpse Party
 - Craftopia
 - Death Crown
+- Decay - The Mare
 - Deployment
 - Distance
 - Doki Doki Literature Club
@@ -109,6 +110,7 @@ Games released with the Assembly-Csharp.dll file:
 - The Coma Recut
 - The Invisible Hand
 - The Legend of Tian Ding
+- The Shrouded Isle
 - The Tale of Fighting Nymphs
 - There is No Light
 - Time Lock VR 1
