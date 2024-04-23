@@ -17,14 +17,17 @@ These are games that either weren't made in Unity or were released without the A
 - Behind the Frame: The Finest Scenery
 - Bitburner
 - The Blind Prophet
+- Buckshot Roulette
 - Brothers
 - The Callisto Protocol
 - Call of the Sea
 - Castle Crashers
+- Castlevania Anniversary Collection
 - Cepheus Protocol
 - Cloudpunk
 - The Coffin of Andy and Leyley
 - Conan Chop Chop
+- Contra Anniversary Collection
 - Coromon
 - Crashlands
 - Curse of the Dead Gods
@@ -105,6 +108,10 @@ These are games that either weren't made in Unity or were released without the A
 - Master Levels for DOOM II
 - Mechwarrior 5: Mercenaries
 - Metal: Hellsinger
+- Metal Gear Solid: Master Collection Vol. 1 Bonus Content
+- Metal Gear & Metal Gear 2: Solid Snake
+- Metal Gear Solid 3: Snake Eater (Except the launcher, which does have an Assembly-CSharp.dll file)
+- Metal Gear Solid V: The Phantom Pain
 - Midnight Fight Express
 - Mobius Front '83
 - Monaco
