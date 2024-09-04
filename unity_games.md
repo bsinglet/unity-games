@@ -3,8 +3,10 @@ Games released with the Assembly-Csharp.dll file:
 - 8 Doors
 - Abandon Ship
 - Aces and Adventures
+- Amanda the Adventurer
 - ANNO: Mutationem
 - Apocalipsis
+- Astrea: Six-Sided Oracles
 - ATOM RPG Trudograd
 - Atomic Crops
 - Autonauts vs Piratebots
@@ -39,10 +41,12 @@ Games released with the Assembly-Csharp.dll file:
 - Empyrion
 - Everhood
 - Fashion Police Squad
+- Figment 2: Creed Valley
 - Founders Fortune
 - The Forest
 - Fort Triumph
 - Golden Light
+- Guidebook of Babel
 - Graveyard Keeper
 - Grow: Song of the Evertree
 - Hardspace: Shipbreakers
@@ -55,6 +59,7 @@ Games released with the Assembly-Csharp.dll file:
 - I am Fish
 - Idol Showdown
 - If Found
+- Infraspace
 - The Invisible Hand
 - The Life and Suffering of Sir Brante
 - Iron Harvest
@@ -62,6 +67,7 @@ Games released with the Assembly-Csharp.dll file:
 - Keep Talking and Nobody Explodes
 - Kerbal Space Program 2
 - Legion TD 2
+- Loddlenaut
 - Lords and Villeins
 - Lost in Vivo
 - Lovers in a Dangerous Spacetime
@@ -85,6 +91,7 @@ Games released with the Assembly-Csharp.dll file:
 - Rebel Cops
 - Retrowave
 - RimWorld
+- Risk of Rain 2
 - Running Through Russia
 - Rustler
 - Scarlet Hood & the Wicked Wood
@@ -127,3 +134,4 @@ Games released with the Assembly-Csharp.dll file:
 - Welcome to the Game II
 - Wounded - The Beginning
 - Yes, Your Grace
+- You Suck at Parking
